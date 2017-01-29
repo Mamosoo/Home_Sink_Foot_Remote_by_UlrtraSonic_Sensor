@@ -1,6 +1,8 @@
 int trigPin = 13; // int trig pin (ultrasonic sensor)
 int echoPin = 12; // int echo pin (ultrasonic sensor)
 int relayPin = 8; // int relay pin
+int relay2Pin = 10;
+
  
  
 void setup(){
